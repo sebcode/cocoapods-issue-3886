@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>iostarget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>9660B82A1B638117006677F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>96F2184C1B637946004E3711</key>
 		<dict>
 			<key>primary</key>
